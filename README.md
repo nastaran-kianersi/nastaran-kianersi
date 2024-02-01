@@ -1,10 +1,14 @@
+# Hey, there!
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nastaran-kian-ersi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nastaran.kianersi@gmail.com)
 
-- :woman_technologist: I'm a software developer in the electrical engineering industry
+### :woman_technologist: My story
+
+- :computer: I'm a software developer in the electrical engineering industry
 - :artificial_satellite: I used to work in the telecommunications area, mostly on software transceivers
 - :electric_plug: Currently, I develop simulation software for hardware systems implementation
-- :infinity: I'm intereseted in many other fields of software enginnering and I'm planning to explore them
+- :infinity: I'm interested in many other fields of computer science, e.g. computer networks, web development, and machine learning
 - :wink: By the way, I love what I do but I wouldn't fake extreme enthusiasm
 
 ### :gear: Tech Stack
