@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nastaran-kian-ersi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nastaran.kianersi@gmail.com)
 
-### :woman_technologist: My story
+### :woman_technologist: My Story
 
 - :computer: I'm a software developer in the electrical engineering industry
 - :artificial_satellite: I used to work in the telecommunications area, mostly on software transceivers
