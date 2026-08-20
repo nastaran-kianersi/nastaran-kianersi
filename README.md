@@ -9,7 +9,7 @@
 - :artificial_satellite: I used to work in the telecommunications area, mostly on software transceivers
 - :electric_plug: Currently, I develop simulation software for hardware systems implementation
 - :infinity: I'm interested in many other fields of computer science, e.g. computer networks, web development, and machine learning
-- :wink: By the way, I love what I do but I wouldn't fake extreme enthusiasm
+<!-- - :wink: By the way, I love what I do but I wouldn't fake extreme enthusiasm -->
 
 ### :gear: Tech Stack
 
