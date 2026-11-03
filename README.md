@@ -17,9 +17,13 @@
 
 My interests are way wider than what I've already done; they include everything I've worked in so far, plus cybersecurity, back-end web development, database design, and health tech, to name a few. I love everything software (and hardware when needed).
 
-### :wink: To know more about me
+### :wink: Further info
 
-To see code written by me, you're in the right place. To know more about me, please visit my LinkedIn profile. You can find my resume and publications there as well.
+To know more details about my experience, please visit my [LinkedIn profile]() where you can also find my resume and publications. To contact me, drop me an email or DM me here.
+
+### 💼 Skills
+
+Desktop Applications <strong>&bull;</strong> Performance Optimization <strong>&bull;</strong> Parallel Programming <strong>&bull;</strong> Low-level Systems Software <strong>&bull;</strong> Digital Signal Processing (DSP) <strong>&bull;</strong> Communications Theory 
 
 ### :gear: Tech stack
 
