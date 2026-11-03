@@ -5,12 +5,13 @@
 
 ### :woman_technologist: My journey from undergrad till now
 
-- :electric_plug: I did electrical engineering with a specialization in telecommunications.
-- 📝: Did a machine learning internship in undergrad.
+- :electric_plug: I did electrical engineering with a specialization in telecommunications in undergrad.
+- 📝: Did a machine learning internship in senior year.
 - 👽: My final project was simulating a microwave device!
 - 🌝: Got my first job in the telecom field, developing high-throughput, real-time software for NVidia GPUs.
 - 🏃‍♀️: Started my second job as a GNSS software developer in a fabless semiconductor company, working at the intersection of telecom design and RTL verification.
-- :computer: Started my master's in computer engineering! Thesis was at the intersection of stuff: formal automata learning, multivariate time series processing, and computationally expensive metaheuristic optimization.
+- :computer: Started my master's in computer engineering! Thesis was at the intersection of stuff: automata learning, time series processing, and computationally expensive metaheuristic optimization.
+- 🧐: I dived into embedded programming with Arduino for a course project in my master's.
 - 👓: I'm currently looking for industry (or R&D in industry) opportunities in one of the fields of telecom software, embedded, GPU, or low-level software programming.
 
 ### :infinity: My interests
@@ -28,14 +29,15 @@ Desktop Applications <strong>&bull;</strong> Performance Optimization <strong>&b
 ### :gear: Tech stack
 
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-353535?style=flat-square&logo=c%2B%2B)
+![Static Badge](https://img.shields.io/badge/C-353535?style=flat-square&logo=c)
 ![Static Badge](https://img.shields.io/badge/Qt-353535?style=flat-square&logo=Qt)
 ![Static Badge](https://img.shields.io/badge/CUDA-353535?style=flat-square&logo=CUDA)
 ![Static Badge](https://img.shields.io/badge/Python-353535?style=flat-square&logo=python)
 ![Static Badge](https://img.shields.io/badge/MATLAB-353535?style=flat-square&logo=MATLAB)
 ![Static Badge](https://img.shields.io/badge/Simulink-353535?style=flat-square&logo=Simulink)
-![Static Badge](https://img.shields.io/badge/C-353535?style=flat-square&logo=c)
 ![Static Badge](https://img.shields.io/badge/scikit-learn-353535?style=flat-square&logo=scikit-learn)
-
+![Wireshark](https://img.shields.io/badge/Wireshark-353535?style=flat-square&logo=wireshark&logoColor=1679A7)
+![Slurm](https://img.shields.io/badge/Slurm-353535?style=flat-square&logo=slurm&logoColor=white)
 
 <div>
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=nastaran-kianersi&" alt="nastaran-kianersi" />
