@@ -20,7 +20,9 @@ My interests are way wider than what I've already done; they include everything 
 
 ### :wink: Further info
 
-To know more details about my experience, please visit my [LinkedIn profile]() where you can also find my resume and publications. To contact me, drop me an email or DM me here.
+To know more details about my experience, please visit my
+<a href="https://www.linkedin.com/in/nastaran-kian-ersi/" target="_blank">LinkedIn profile</a>
+[LinkedIn profile](https://www.linkedin.com/in/nastaran-kian-ersi/) where you can also find my resume and publications. To contact me, drop me an [email](mailto:nastaran.kianersi@gmail.com) or DM me here.
 
 ### 💼 Skills
 
