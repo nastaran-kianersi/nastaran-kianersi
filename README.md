@@ -1,15 +1,22 @@
-# Hey, there!
+# About Me
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nastaran-kian-ersi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nastaran.kianersi@gmail.com)
 
-### :woman_technologist: My Story
+### :woman_technologist: My Journey from Undergrad till Now
 
-- :computer: I'm a software developer in the electrical engineering industry
-- :artificial_satellite: I used to work in the telecommunications area, mostly on software transceivers
-- :electric_plug: Currently, I develop simulation software for hardware systems implementation
-- :infinity: I'm interested in many other fields of computer science, e.g. computer networks, web development, and machine learning
+- :electric_plug: I did electrical engineering with a specialization in telecommunications.
+- 📝: I did a machine learning internship in undergrad.
+- 👽: My final project was simulating a microwave device!
+- 🌝: Found my first job in the telecom field, developing high-throughput, real-time software for NVidia GPUs.
+- 🏃‍♀️: Started my second job as a GNSS software developer in a fabless semiconductor company, working at the intersection of telecom design and RTL verification.
+- :computer: Started my master's in computer engineering! Thesis was at the intersection of stuff: formal automata learning, multivariate time series processing, and computationally expensive metaheuristic optimization.
+- 👓: I'm currently looking for industry (or R&D in industry) opportunities in one of the fields of telecom software, embedded, GPU, or low-level software programming.
 <!-- - :wink: By the way, I love what I do but I wouldn't fake extreme enthusiasm -->
+
+### :infinity: My Interests
+
+My interests are way wider than what I've already done; they include everything I've worked in so far, plus cybersecurity, back-end web development, database design, and health tech, to name a few. I love everything software (and hardware when needed).
 
 ### :gear: Tech Stack
 
@@ -18,9 +25,14 @@
 ![Static Badge](https://img.shields.io/badge/CUDA-353535?style=flat-square&logo=CUDA)
 ![Static Badge](https://img.shields.io/badge/Python-353535?style=flat-square&logo=python)
 ![Static Badge](https://img.shields.io/badge/MATLAB-353535?style=flat-square&logo=MATLAB)
+![Static Badge](https://img.shields.io/badge/Simulink-353535?style=flat-square&logo=Simulink)
 ![Static Badge](https://img.shields.io/badge/C-353535?style=flat-square&logo=c)
+![Static Badge](https://img.shields.io/badge/scikit-learn-353535?style=flat-square&logo=scikit-learn)
 
 
+<div>
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=nastaran-kianersi&" alt="nastaran-kianersi" />
+</div>
 
 <!--
 **nastaran-kianersi/nastaran-kianersi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
