@@ -20,9 +20,7 @@ My interests are way wider than what I've already done; they include everything 
 
 ### :wink: Further info
 
-To know more details about my experience, please visit my
-<a href="https://www.linkedin.com/in/nastaran-kian-ersi/" target="_blank">LinkedIn profile</a>
-[LinkedIn profile](https://www.linkedin.com/in/nastaran-kian-ersi/) where you can also find my resume and publications. To contact me, drop me an [email](mailto:nastaran.kianersi@gmail.com) or DM me here.
+To know more details about my experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/nastaran-kian-ersi/) where you can also find my resume and publications. To contact me, drop me an [email](mailto:nastaran.kianersi@gmail.com) or DM me here.
 
 ### 💼 Skills
 
@@ -40,6 +38,7 @@ Desktop Applications <strong>&bull;</strong> Performance Optimization <strong>&b
 ![Static Badge](https://img.shields.io/badge/scikit-learn-353535?style=flat-square&logo=scikit-learn)
 ![Wireshark](https://img.shields.io/badge/Wireshark-353535?style=flat-square&logo=wireshark&logoColor=1679A7)
 ![Slurm](https://img.shields.io/badge/Slurm-353535?style=flat-square&logo=slurm&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)
 
 <div>
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=nastaran-kianersi&" alt="nastaran-kianersi" />
