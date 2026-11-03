@@ -3,22 +3,25 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nastaran-kian-ersi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nastaran.kianersi@gmail.com)
 
-### :woman_technologist: My Journey from Undergrad till Now
+### :woman_technologist: My journey from undergrad till now
 
 - :electric_plug: I did electrical engineering with a specialization in telecommunications.
-- 📝: I did a machine learning internship in undergrad.
+- 📝: Did a machine learning internship in undergrad.
 - 👽: My final project was simulating a microwave device!
-- 🌝: Found my first job in the telecom field, developing high-throughput, real-time software for NVidia GPUs.
+- 🌝: Got my first job in the telecom field, developing high-throughput, real-time software for NVidia GPUs.
 - 🏃‍♀️: Started my second job as a GNSS software developer in a fabless semiconductor company, working at the intersection of telecom design and RTL verification.
 - :computer: Started my master's in computer engineering! Thesis was at the intersection of stuff: formal automata learning, multivariate time series processing, and computationally expensive metaheuristic optimization.
 - 👓: I'm currently looking for industry (or R&D in industry) opportunities in one of the fields of telecom software, embedded, GPU, or low-level software programming.
-<!-- - :wink: By the way, I love what I do but I wouldn't fake extreme enthusiasm -->
 
-### :infinity: My Interests
+### :infinity: My interests
 
 My interests are way wider than what I've already done; they include everything I've worked in so far, plus cybersecurity, back-end web development, database design, and health tech, to name a few. I love everything software (and hardware when needed).
 
-### :gear: Tech Stack
+### :wink: To know more about me
+
+To see code written by me, you're in the right place. To know more about me, please visit my LinkedIn profile. You can find my resume and publications there as well.
+
+### :gear: Tech stack
 
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-353535?style=flat-square&logo=c%2B%2B)
 ![Static Badge](https://img.shields.io/badge/Qt-353535?style=flat-square&logo=Qt)
