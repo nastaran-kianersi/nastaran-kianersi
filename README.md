@@ -3,24 +3,26 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nastaran-kian-ersi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nastaran.kianersi@gmail.com)
 
-### :woman_technologist: My journey from undergrad till now
+### :woman_technologist: My journey so far
 
 - :electric_plug: I did electrical engineering with a specialization in telecommunications in undergrad.
-- 📝: Did a machine learning internship in senior year.
-- 👽: My final project was simulating a microwave device!
-- 🌝: Got my first job in the telecom field, developing high-throughput, real-time software for NVidia GPUs.
-- 🏃‍♀️: Started my second job as a GNSS software developer in a fabless semiconductor company, working at the intersection of telecom design and RTL verification.
+- 📝 Did a machine learning internship in senior year.
+- 🌝 Got my first job in the telecom field, developing high-throughput, real-time software for NVidia GPUs.
+- 🏃‍♀️ Started my second job as a GNSS software developer in a fabless semiconductor company, working at the intersection of telecom design and RTL verification.
 - :computer: Started my master's in computer engineering! Thesis was at the intersection of stuff: automata learning, time series processing, and computationally expensive metaheuristic optimization.
-- 🧐: I dived into embedded programming with Arduino for a course project in my master's.
-- 👓: I'm currently looking for industry (or R&D in industry) opportunities in one of the fields of telecom software, embedded, GPU, or low-level software programming.
+- 🧐 I dived into embedded programming with Arduino for a course project in my master's.
+- ⏭️ And currently I'm exploring industry or R&D in industry opportunities.
+<!--
+- 👓: I'm currently looking for industry or R&D in industry opportunities in one of the fields of telecom software, embedded, GPU, or low-level software programming.
+-->
 
 ### :infinity: My interests
 
-My interests are way wider than what I've already done; they include everything I've worked in so far, plus cybersecurity, back-end web development, database design, and health tech, to name a few. I love everything software (and hardware when needed).
+My interests are way wider than what I've already done; they include everything I've worked in so far, plus cybersecurity, back-end web development, database design, and health tech, to name a few. I love everything software and hardware.
 
 ### :wink: Further info
 
-To know more details about my experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/nastaran-kian-ersi/) where you can also find my resume and publications. To contact me, drop me an [email](mailto:nastaran.kianersi@gmail.com) or DM me here.
+To know more details about my experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/nastaran-kian-ersi/). To contact me, drop me an [email](mailto:nastaran.kianersi@gmail.com) or DM me here.
 
 ### 💼 Skills
 
